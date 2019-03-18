@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Interested
+  m_Shader: {fileID: 4800000, guid: dd302019c0da9b549b797eacccb03151, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _HSpeed: 0.1
+    - _Mood: 4
+    - _WFrequency: 10
+    - _WFrequencyC: 0.64
+    - _WIntensity: 0.41
+    - _WIntensityC: 0.15
+    - _WSpeed: 0.1
+    m_Colors:
+    - _Color: {r: 0.9433962, g: 0.31594875, b: 0.7558832, a: 1}
+    - _ColorDelta: {r: 0.9339623, g: 0.22467959, b: 0.8321654, a: 0}

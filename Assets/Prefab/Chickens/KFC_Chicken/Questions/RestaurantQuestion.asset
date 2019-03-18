@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec756e758479bb4faa5bba73b7081fd, type: 3}
+  m_Name: RestaurantQuestion
+  m_EditorClassIdentifier: 
+  questionText: What is your favorite restaurant?
+  response1: I love KFC!!!
+  interestMod1: 0.2
+  happyMod1: 0
+  response2: A nice mom and pop place.
+  interestMod2: 0
+  happyMod2: -0.1
+  response3: Los pollos hermanos!
+  interestMod3: 0
+  happyMod3: 0.1
+  response4: Anything vegan
+  interestMod4: -0.1
+  happyMod4: -0.1
+  response5: 
+  interestMod5: 0
+  happyMod5: 0

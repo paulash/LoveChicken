@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec756e758479bb4faa5bba73b7081fd, type: 3}
+  m_Name: PrepareQuestion
+  m_EditorClassIdentifier: 
+  questionText: How would you prepare me?
+  response1: Roasted
+  interestMod1: -0.1
+  happyMod1: 0
+  response2: Fried
+  interestMod2: 0.2
+  happyMod2: 0
+  response3: Baked
+  interestMod3: -0.1
+  happyMod3: 0
+  response4: BBQ
+  interestMod4: -0.1
+  happyMod4: 0
+  response5: Microwave
+  interestMod5: -0.5
+  happyMod5: 0
